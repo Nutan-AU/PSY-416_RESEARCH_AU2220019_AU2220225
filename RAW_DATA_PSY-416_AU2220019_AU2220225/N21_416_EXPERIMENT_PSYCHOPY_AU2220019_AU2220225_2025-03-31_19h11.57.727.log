@@ -1,0 +1,9 @@
+1170.4508 	WARNING 	t of last frame was 20.02ms (=1/49)
+1171.1507 	WARNING 	t of last frame was 21.00ms (=1/47)
+1171.1841 	WARNING 	t of last frame was 20.74ms (=1/48)
+1171.5829 	WARNING 	t of last frame was 20.07ms (=1/49)
+1171.6173 	WARNING 	Multiple dropped frames have occurred - I'll stop bothering you about them!
+1172.0473 	WARNING 	Couldn't measure a consistent frame rate!
+  - Is your graphics card set to sync to vertical blank?
+  - Are you running other processes on your computer?
+
